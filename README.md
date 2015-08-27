@@ -1,5 +1,7 @@
 # Oefening-Navigation-2
 
+In deze oefening werk je met **modale** presentatie.
+
 ## Opgaves
 1. Maak een nieuw project aan voor deze oefening.
 2. Voeg een UIButton toe aan de UIViewController die een andere UIViewController modaal presenteert.
