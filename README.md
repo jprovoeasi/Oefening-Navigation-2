@@ -1,4 +1,5 @@
 # Oefening-Navigation-2
+
 ## Opgaves
 1. Maak een nieuw project aan voor deze oefening.
 2. Voeg een UIButton toe aan de UIViewController die een andere UIViewController modaal presenteert.
@@ -10,3 +11,6 @@
   - Tip: niet alle modal presentation styles zijn zichtbaar op de iPhone.
 7. Onderzoek de verschillende **modal transition styles**.
   - Je kan dit doen door de background view van de modale UIViewController doorzichtig te maken. Tip: alpha.
+
+## Oplossing
+De oplossingen vind je terug onder de branch **oplossing** van deze repository.
