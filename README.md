@@ -1,18 +1,18 @@
-# Oefening-Navigation-2
+# Exercise-Navigation-2
 
-In deze oefening werk je met **modale** presentatie.
+In this exercise you will work with **modal** presentations.
 
-## Opgaves
-1. Maak een nieuw project aan voor deze oefening.
-2. Voeg een UIButton toe aan de UIViewController die een andere UIViewController modaal presenteert.
-3. Geef een NSString mee aan de modale UIViewController en display deze op het scherm.
-4. Voeg een UIBarButtonItem toe om de modale UIViewController te dismissen vanuit code.
-5. Voeg een UIBarButtonItem toe om de modale UIViewController te unwinden.
-6. Herhaal de vorige opgave voor elke **modal presentation style**.
-  - Er is dus 1 UIButton + 1 UIViewController per modal presentation style.
-  - Tip: niet alle modal presentation styles zijn zichtbaar op de iPhone.
-7. Onderzoek de verschillende **modal transition styles**.
-  - Je kan dit doen door de background view van de modale UIViewController doorzichtig te maken. Tip: alpha.
+## Tasks
+1. Create a new project for this exercise.
+2. Add a UIButton to a UIViewController that will modally present another UIViewController.
+3. Pass a NSString to the modal UIViewController and display it on the screen.
+4. Add a UIBarButtonItem to the modal UIViewController to dimiss it from code.
+5. Add a UIBarButtonItem to the modal UIViewController to unwind.
+6. Repeat the previous task for each **modal presentation style**.
+  - There should be 1 UIButton + 1 UIViewController per modal presentation style.
+  - Tip: not all modal presentation styles are visible on the iPhone.
+7. Investigate the different **modal transition styles**.
+  - This can be done by making the background view of the modal UIViewController transparent. Tip: alpha.
 
-## Oplossing
-De oplossingen vind je terug onder de branch **oplossing** van deze repository.
+## Solutions
+The solutions are available in the **oplossing** branch of this repository.
